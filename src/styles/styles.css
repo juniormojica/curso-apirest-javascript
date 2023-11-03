@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.trending-section{
+    display: flex;
+    
+    overflow-x: auto;
+   
+    
+}
+.title-container{
+    width: 100%;
+    
+}
+.title-trending{
+    text-align: center;
+}
+.movie-container{
+
+    padding: 0.5rem;
+    
+}
+
+.movie-img{
+    width: 200px;
+    border-radius: 5%;
+}
